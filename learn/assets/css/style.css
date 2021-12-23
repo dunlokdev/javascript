@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+}
+body {
+	font-size: 1.6rem;
+}
+img {
+	display: block;
+	max-width: 100%;
+	object-fit: cover;
+}
+input,
+button {
+	cursor: pointer;
+}
+a {
+	color: unset;
+	text-decoration: none;
+}
